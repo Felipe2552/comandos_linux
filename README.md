@@ -1,6 +1,6 @@
 # Comandos Linux
 
-Material de estudo com os principais comandos de Linux, organizado por tema. Criado durante o meu mestrado em Genética e Biologia Molecular (PPGBM/UFPA), com foco em quem está começando no terminal e na bioinformática.
+Material de estudo com os principais comandos de Linux, organizado por tema e direcionado para quem quem está começando no terminal e na área de bioinformática.
 
 > 🚧 Em construção: este repositório é atualizado ao longo do mestrado.
 
@@ -27,5 +27,5 @@ Não tem Linux instalado? Dá para praticar no navegador com o [JSLinux](https:/
 
 ## Autor
 
-**Felipe Mateus Souza Serrão**
-Biotecnólogo (UFPA) e mestrando em Genética e Biologia Molecular (PPGBM/UFPA).
+**Felipe Mateus Souza Serrão** <br>
+>Biotecnólogo (UFPA) e mestrando em Genética e Biologia Molecular (PPGBM/UFPA).
