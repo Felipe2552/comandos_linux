@@ -2,7 +2,7 @@
 
 Material de estudo com os principais comandos de Linux, organizado por tema e direcionado para quem quem está começando no terminal e na área de bioinformática.
 
-> 🚧 Em construção: este repositório é atualizado ao longo do mestrado.
+> 🚧 Em construção: este repositório está sujeito a atualizações.
 
 ## Conteúdo
 
